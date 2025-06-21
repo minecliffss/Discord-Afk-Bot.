@@ -24,7 +24,7 @@ Also make sure your AFK voice channel is named exactly as specified:
 Or change the AFK_CHANNEL_NAME variable in the code to match your server’s AFK channel name.
 
 4. Run the Bot
-python bot.py
+python afk.py
 
 # 📄 Code Overview
 AFK_CHANNEL_NAME = "┊🇦🇫🇰"

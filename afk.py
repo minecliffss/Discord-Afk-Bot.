@@ -37,4 +37,4 @@ async def on_voice_state_update(member, before, after):
             else:
                 print("AFK channel not found.")
 
-bot.run('MTM2NjY0OTU5MTI5ODI2NTE4MQ.Gdt15T.b3wMfdMt2szVyCtS5Ax6MYX2FlyzwQ2KF2lbKE')
+bot.run('TOKEN')    
